@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Jul 2024 00:08:22 at https://demo.ovatheme.com/aovis/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.ovatheme.com/aovis/ -O1 "F:\movieapp\moviebooking" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:08:39	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://demo.ovatheme.com/robots.txt (from primary/primary)
+00:08:40	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://demo.ovatheme.com/aovis/ (from primary/primary)
+00:08:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://demo.ovatheme.com/aovis/ (from primary/primary)
+00:09:17	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://demo.ovatheme.com/aovis/ (from primary/primary)
+00:09:17	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
